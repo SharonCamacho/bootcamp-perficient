@@ -1,2 +1,2 @@
 # bootcamp-perficient
-DevOps bootcamp by women who code and perficient
+DevOps bootcamp by Women Who Code and Perficient
